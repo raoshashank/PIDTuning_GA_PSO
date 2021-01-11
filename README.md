@@ -7,7 +7,7 @@ Reference paper: Chang, Wei-Der & Shih, Shun-Peng. (2010). PID controller design
 ![](imgs/comparison.png)
 
 ### System Flowchart:
-![](imgs/systemflowchart.png)
+![](imgs/comparison.png)
 
 ### Improved PSO params:
 ![](imgs/imporved_PSO_params.jpg)
